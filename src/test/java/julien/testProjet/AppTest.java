@@ -38,7 +38,7 @@ public class AppTest
     
     public void testMultiply() {
     	App var = new App();
-    	assertEquals(10000000, var.multiply(2, 3));
+    	assertEquals(6, var.multiply(2, 3));
     	
     }
     
